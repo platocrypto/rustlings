@@ -1,7 +1,7 @@
 // functions5.rs
 // Make me compile! Execute `rustlings hint functions5` for hints :)
 
-// I AM NOT DONE
+// Notice no `return` keyword if there is no semi-colon as well
 
 fn main() {
     let answer = square(3);
